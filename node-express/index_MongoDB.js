@@ -21,7 +21,7 @@ const project_model = projects_collection.Project_model;
 const user_model = users_collection.User_model;
 
 mongoose.connect(
-    "mongodb+srv://dbadmin:haris123456@GuruCluster.j8ef7.mongodb.net/Guru?retryWrites=true&w=majority", { useUnifiedTopology: true, useNewUrlParser: true }
+    "mongodb+srv://dbadmin:username@Clustername.j8ef7.mongodb.net/Guru?retryWrites=true&w=majority", { useUnifiedTopology: true, useNewUrlParser: true }
 ).then(() => { console.log("Successfully Connected! to DB") }).catch((error) => { console.log(error); });
 
 
