@@ -1,0 +1,8 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+.nav {
+font-weight: 500;
+}
+.explore{
+  background-color: #005ea6;
+  margin-right: 1em;
+}

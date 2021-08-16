@@ -1,0 +1,40 @@
+.search-seo {
+  padding: 64px 0;
+}
+
+.c-seo-s {
+  padding: 0;
+  width: 100%;
+  max-width: 984px;
+  padding: 0 12px;
+  min-width: 300px;
+  width: 100%;
+  max-width: 984px;
+  min-width: 300px;
+}
+
+.c-seo-s-h3 {
+  margin-bottom: 18px !important;
+  font-size: 1rem;
+  letter-spacing: normal;
+  margin-top: 0;
+  font-weight: 600;
+  display: block;
+  margin-bottom: 0.5rem;
+  color: #111;
+  letter-spacing: -0.8px;
+}
+
+.c-seo-s-cont {
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.s-seo-s-i-ss {
+  font-size: 0.875em;
+  margin: 0 12px 12px 0;
+  padding: 6px 12px;
+  border: 1px solid #cdcdcd;
+  color: #333;
+  font-weight: 600;
+}

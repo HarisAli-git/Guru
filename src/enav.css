@@ -1,0 +1,48 @@
+.nav-right_ret {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex: 1 1 0%;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.navbar-c button:hover {
+  color: rgb(91, 153, 214);
+}
+
+.ReturnRend {
+  display: flex;
+  align-items: normal;
+  background-color: rgba(0, 0, 0, 0);
+  border-color: rgb(0, 0, 238);
+  border-style: none;
+  box-sizing: content-box;
+  color: rgb(17, 17, 17);
+  cursor: pointer;
+  display: inline;
+  font: inherit;
+  height: auto;
+  padding: 0;
+  perspective-origin: 0 0;
+  font-size: 20px;
+  text-align: start;
+  text-decoration: none;
+  transform-origin: 0 0;
+  width: auto;
+  -moz-appearance: none;
+  -webkit-logical-height: 1em; /* Chrome ignores auto, so we have to use this hack to set the correct height  */
+  -webkit-logical-width: auto; /* Chrome ignores auto, but here for completeness */
+}
+
+@supports (-moz-appearance: none) {
+  button::-moz-focus-inner {
+    border: none;
+    padding: 0;
+  }
+  button:focus {
+    outline-style: dotted;
+    outline-width: 1px;
+  }
+}

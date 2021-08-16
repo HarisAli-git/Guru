@@ -1,0 +1,103 @@
+[
+            {
+                "title": "Web & Design",
+                "Description": "NIX Solutions provides unique design services. Combine your ideas with our technical expertise and compliance with the latest market demands and you will have a best-selling recipe for your business!",
+                "Location": "Lahore, Punjab, Pakistan",
+                "img_src": "https://res.cloudinary.com/gurucom/image/upload/f_auto/pimg/0/538/538436/iPad-White-Angle-1-1030x-ns_eab2c04e-c83d-4a4b-ac47-4d01a85f1373.jpg"
+            },
+            {
+                "title": "Graphic Designing",
+                "Description": "Need designs that speak for themselves? MicroArts is what you've been looking for! We offer the best graphics design packages for all kind of clients. Please review our complete graphics design price",
+                "Location": "Karachi, Sindh, Pakistan",
+                "img_src": "https://res.cloudinary.com/gurucom/image/upload/f_auto/pimg/0/935/935279/Logo-Design-1_303cffa1-63e1-4b6d-8594-023345263710.jpg"
+            },
+            {
+                "title": "Web Design, Boarding and Graphics",
+                "Description": "At Colan Infotech Pvt Ltd, we combine the best of design aesthetics with the power of modern technology to offer you a stunning and fully functional website. Our highly qualified and experienced teams…",
+                "Location": "Dhaka, Dhaka, Bangladesh",
+                "img_src": "https://res.cloudinary.com/gurucom/image/upload/f_auto/pimg/1/720/1720700/Valetapp_12f37302-fe62-48dc-b616-f92b210ac1dc.png"
+            },
+
+            {
+                "title": "Creative, Content and Technical Writing",
+                "Description": "Specialise in Content writing, creative writing, technical writing, research writing, business proposal writing, marketing strategies writing, Résumé and Cover letter writing, motivational writing, pr…",
+                "Location": "Karachi, Sindh, Pakistan",
+                "img_src": "https://res.cloudinary.com/gurucom/image/upload/f_auto/pimg/2/673/2673655/michal-parzuchowski-Nh4Sxasye24-unsplash762954ee-14f9-4bd8-a150-29f3586fcc7a.jpg"
+            },
+            
+            {
+                "title": "eBook Writing (Fiction)",
+                "Description": "I have been a professional eBook writer for the past 6 years and have been writing on various genres including crime, mystery, drama, adventure, romance, western and stories for children. I completely…",
+                "Location": "Lahore, Punjab, Pakistan",
+                "img_src": "https://res.cloudinary.com/gurucom/image/upload/f_auto/pimg/3/155/3155722/hqdefault_325b2686-7a19-41ed-8e86-8f735a44257c.jpg"
+            },
+            {
+                "title": "Web Application Development",
+                "Description": "Scopic offers high-quality and affordable web development and design services, providing customized solutions that best fit your business's unique needs. Having over 14 years of experience in the soft…",
+                "Location": "Kolkata, West Bengal, India",
+                "img_src": "https://res.cloudinary.com/gurucom/image/upload/f_auto/pimg/0/314/314056/Shoes2_4e4bac8c-c5af-4f3c-9d1b-1af19736d674.png"
+            },
+            
+            {
+                "title": "Web Development Services",
+                "Description": "NIX Solutions provides professional web development services. We can handle anything from innovative web development to the classic website development and provide you with the highest quality results…",
+                "Location": "Dhaka, Dhaka, Bangladesh",
+                "img_src": "https://res.cloudinary.com/gurucom/image/upload/f_auto/pimg/0/538/538436/Mobile-Development-Services-558x-zc-ns_197e4374-7f19-4360-9ae3-40f8d456f4e4.jpg"
+            },
+
+  
+            {
+                "title": "PDF Forms Developer",
+                "Description": "I can make Fillable, Editable, Saveable and Dynamic Functioning PDF Forms ... all starting from $10.00 only ! Have you ever thought about the wonders that you can achieve through these type of forms?",
+                "Location": "New Delhi, Delhi, India",
+                "img_src": "https://res.cloudinary.com/gurucom/image/upload/f_auto/pimg/1/193/1193430/Member%20Registration%20PDF%20Form%20Sample_0c557b61-3b03-4a4f-900e-21efa96a1270.jpg"
+            },
+            
+            {
+                "title": "Databases & Data Visualization Services",
+                "Description": "Do you want to learn more about how our MS Access database, Azure Database and Data Visualization expertise can help you with decision making, then please contact us",
+                "Location": "Dhaka, Dhaka, Bangladesh",
+                "img_src": "https://res.cloudinary.com/gurucom/image/upload/f_auto/pimg/1/824/1824429/Cover_Page_546fe589-63c2-4649-88e6-2ff33115b9eb.png"
+            },
+
+            {
+                "title": "Financial Services & Analytics",
+                "Description": "Understanding your company's current and future operating status is crucial to have a healthy, sustainable business. We offer financial modeling and analytics services that empower small businesses to…",
+                "Location": "New Delhi, Delhi, India",
+                "img_src": "https://res.cloudinary.com/gurucom/image/upload/f_auto/pimg/0/314/314056/Budget%20Tool%20132416743-703d-42fa-a36a-8fdd3e9fdcdf.png"
+            },
+            
+            {
+                "title": "Financial Modeling",
+                "Description": "Experience in commercial valuation (e-NPV, Break Even, IRR), bench-marking,   forecasting at portfolio level, market sizing, variance analysis projects.  Supported clients on strategy & decision proje…",
+                "Location": "Kolkata, West Bengal, India",
+                "img_src": "https://res.cloudinary.com/gurucom/image/upload/f_auto/pimg/1/824/1824429/Cash%20Flow%20%2526%20Return%20Analysis,%202011-2042_fd49042e-ca1b-43b5-89b9-7cef8b2f6e98.PNG"
+            },
+
+            {
+                "title": "Search Engine Optimization",
+                "Description": "Why Scopic? Whether you’re building a website from scratch or wanting to boost traffic to your current domain, Scopic tailors every SEO service to your marketing needs and budget. Our diverse technica…",
+                "Location": "Lahore, Punjab, Pakistan",
+                "img_src": "https://res.cloudinary.com/gurucom/image/upload/f_auto/pimg/0/314/314056/gorilla2_c63a0ae0-627a-4d92-8f9f-c3daabd44755.jpg"
+            },
+
+            {
+                "title": "Architecture/CRM/Medallia/QuickBase",
+                "Description": "Highly dedicated, Maintenance 24/7, Received many appreciation from lots of organization for performance and work excellence Determined to accomplish on time.",
+                "Location": "Karachi, Sindh, Pakistan",
+                "img_src": "https://res.cloudinary.com/gurucom/image/upload/f_auto/pimg/3/369/3369713/fpga1_634c7282-d456-4e82-a7a8-4acf7f34996e.PNG"
+            },
+
+            {
+                "title": "Motivational/Self-Development",
+                "Description": "Motivating the mind is one of the greatest ways to steer discipline which eventually results in SUCCESSES in everyday life. My books target on how the mind is constantly kept in touch with the set goa…",
+                "Location": "Dhaka, Dhaka, Bangladesh",
+                "img_src": "https://res.cloudinary.com/gurucom/image/upload/f_auto/pimg/2/673/2673655/matthew-kerslake-BpH--upRlCs-unsplash8c496feb-96e7-456f-a459-93c971f744d6.jpg"
+            },
+            {
+                "title": "Voice Over",
+                "Description": "Voice Over Talent: Due to my previous years of training in theatre, my voice can be well adjusted and suited for any of your needs. Maybe you require an upbeat, energizing effect, or even a voice well…",
+                "Location": "Lahore, Punjab, Pakistan",
+                "img_src": "https://res.cloudinary.com/gurucom/image/upload/f_auto/pimg/1/760/1760393/20201113_033941b0e216ba-38dd-42a1-8e17-4359a935529d.jpg"
+            }
+]

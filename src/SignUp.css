@@ -1,0 +1,149 @@
+.main-cs {
+  padding: 0 1em;
+  max-width: 1200px;
+  margin-top: 360px;
+  margin-top: 50px;
+  margin-bottom: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  box-sizing: border-box;
+}
+
+.leftside {
+  flex: 1 0 auto;
+  background: #4f86c4;
+  height: auto;
+}
+
+.main-cslayout {
+  display: flex;
+  min-height: 550px;
+  margin-top: -3em;
+  margin-bottom: 60px;
+  flex-direction: row;
+  box-shadow: 0 0 25px #ccc;
+}
+
+.maincs-para {
+  text-align: center;
+  font-size: 2em;
+  color: #fff;
+  margin: 30px 0;
+}
+
+.rightside {
+  padding-left: 5em;
+  padding-right: 5em;
+}
+
+.rightcs-para {
+  text-align: center;
+  font-size: 32px;
+  color: #4f86c4;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.SignUpLogo {
+  padding-left: 235px;
+  padding-top: 100px;
+  padding-bottom: 20px;
+}
+
+.su-l-p1 {
+  padding-left: 170px;
+  font-size: 20px;
+  font-weight: 500;
+  color: white;
+  margin-bottom: 0.75em;
+}
+
+.su-l-p2 {
+  padding-left: 210px;
+  font-size: 16px;
+  font-weight: 500;
+  color: white;
+  margin-bottom: 0.75em;
+}
+
+.Res-su {
+  font-size: 16px;
+  font-weight: bolder;
+  display: block;
+  color: red;
+}
+
+.fnm {
+  border-radius: 0px;
+  background-repeat: no-repeat;
+  background-position: 6px;
+  border: 1px solid #ccc;
+  margin-top: 23px;
+  box-sizing: border-box;
+  font-size: 16px;
+  padding: 12px;
+  padding-right: 240px;
+  font-family: "Open Sans", sans-serif;
+  resize: vertical;
+  line-height: 1.4;
+}
+
+.em {
+  border-radius: 0px;
+  background-repeat: no-repeat;
+  background-position: 6px;
+  border: 1px solid #ccc;
+  margin-top: 23px;
+  box-sizing: border-box;
+  font-size: 16px;
+  padding: 12px;
+  padding-right: 240px;
+  font-family: "Open Sans", sans-serif;
+  resize: vertical;
+  line-height: 1.4;
+}
+
+.SignUpC {
+  border-top: 1px solid rgb(204, 204, 204);
+}
+
+.s-su {
+  background: transparent !important;
+  color: #cccccc !important;
+  border: 1px solid #cccccc !important;
+  opacity: unset !important;
+  font-size: 16px;
+  font-size: 1em;
+  display: inline;
+  padding-top: 150px;
+  margin-bottom: 30px !important;
+  width: 8em;
+  right: -5%;
+  position: relative;
+  border-radius: 0.4em !important;
+  font-weight: normal !important;
+  cursor: pointer;
+  padding: 1rem 1.5rem;
+  text-align: center;
+  white-space: nowrap;
+  text-decoration: none;
+  vertical-align: middle;
+  line-height: 1.4;
+}
+
+.c1 {
+  content: "";
+  margin-right: 6px;
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background: #fff;
+  border: 1px solid #ccc;
+}
+
+.below-s {
+  display: flex;
+  justify-content: space-around;
+  padding: 30px 0 23px 0;
+  border-top: 1px solid #ccc;
+}

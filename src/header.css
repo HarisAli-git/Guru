@@ -1,0 +1,26 @@
+.h-c {
+  display: flex;
+  position: relative;
+  border-bottom: 1px solid #ddd;
+}
+
+.h-c1 {
+  font-weight: 400;
+  margin-left: 121px;
+  margin-right: 121px;
+}
+
+.h-c2 {
+  font-weight: 400;
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+
+.h2 {
+  color: #6b6666;
+}
+
+body,
+html {
+  font-family: "open sans", sans-serif;
+}
